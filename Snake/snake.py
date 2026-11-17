@@ -18,7 +18,7 @@ WHITE = (255, 255, 255)
 RED = (255, 0, 0)
 GREEN = (0, 255, 0)
 
-speed = 15
+speed = 13
 
 def draw_snake(SIZE, snake_list):
     for x, y in snake_list:
